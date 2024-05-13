@@ -11,7 +11,7 @@
 
 <hr>
 
-<h4>I enjoy my job, and my passion has been steadily ⚡growing⚡ over the course of more than 5 years of experience.<h4>
+<h4>I enjoy my job, and my passion has been steadily ⚡growing⚡ over the course of more than 6 years of experience.<h4>
 
 # Languages, Tools, and Frameworks:
 <div align="center">
