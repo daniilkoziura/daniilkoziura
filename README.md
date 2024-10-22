@@ -11,13 +11,13 @@
 
 <hr>
 
-<h4>I enjoy my job, and my passion has been steadily ⚡growing⚡ over the course of more than 6 years of experience.<h4>
+<h4>I love my work, and my passion has grown steadily over more than seven years of experience.<h4>
 
 # Languages, Tools, and Frameworks:
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,materialui,bootstrap,react,redux,nextjs,gatsby,styledcomponents&perline=13)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,postgres,sqlite,mysql,mongodb,nginx,graphql&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,postgres,sqlite,mysql,mongodb,nginx,graphql,kafka&perline=12)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,redis,docker,bash,figma,git,githubactions,gitlab,netlify,jest,linux,vercel,vscode,&perline=13)](https://skillicons.dev)
 
 </div>
