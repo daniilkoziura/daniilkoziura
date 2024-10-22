@@ -17,7 +17,7 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,tailwind,materialui,bootstrap,react,redux,nextjs,gatsby,styledcomponents&perline=13)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,postgres,sqlite,mysql,mongodb,nginx,graphql,kafka&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,symfony,postgres,sqlite,mysql,mongodb,nginx,graphql,kafka&perline=13)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,redis,docker,bash,figma,git,githubactions,gitlab,netlify,jest,linux,vercel,vscode,&perline=13)](https://skillicons.dev)
 
 </div>
